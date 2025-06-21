@@ -1,0 +1,8 @@
+title: "FabAgent - Sustainable Fabric Design"
+emoji: 🧵
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+app_port: 8501
+pinned: false
+license: mit 
